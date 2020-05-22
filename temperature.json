@@ -1,11 +1,11 @@
 {
     "fields": {
-        "humidity": 45.0, 
-        "temperature": 21.799999237060547
+        "humidity": 45.099998474121094, 
+        "temperature": 21.700000762939453
     }, 
     "measurement": "rpi-dht22", 
     "tags": {
         "location": "bedroom"
     }, 
-    "time": "2020-05-22T04:03:10Z"
+    "time": "2020-05-22T04:05:31Z"
 }
