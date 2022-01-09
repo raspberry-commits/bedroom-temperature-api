@@ -1,11 +1,11 @@
 {
     "fields": {
-        "humidity": 97.8,
+        "humidity": 97.7,
         "temperature": 15.3
     },
     "measurement": "rpi-dht22",
     "tags": {
         "location": "bedroom"
     },
-    "time": "2022-01-09T21:38:14Z"
+    "time": "2022-01-09T21:40:05Z"
 }
